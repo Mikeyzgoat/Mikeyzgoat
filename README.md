@@ -5,7 +5,7 @@ I am Aditya, here's everything about me
 - 🔭 I’m currently exploring AI and various tools
 - 🌱 I’m currently learning Go, React.js, Node.js
 - 💬 Ask me about : Python and emerging tech.
-- 📫 How to reach me: Github: [Mikeyzgoat](https://github.com/Mikeyzgoat) and E-Mail : tadisai091@gmail.com
+- 📫 How to reach me: Github: [Mikeyzgoat](https://github.com/Mikeyzgoat) 
 - 😄 Pronouns: he/him
 - ⚡ Personal Likings : I play Valorant and a huge Call of Duty fan. Also would love to watch anime when free.
 - ⚡ Fun fact : I always find myself in the midst of a problem statement, in the end I solve it.
