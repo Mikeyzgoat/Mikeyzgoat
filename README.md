@@ -10,7 +10,6 @@ I am Aditya, here's everything about me
 - ⚡ Personal Likings : I play Valorant and a huge Call of Duty fan. Also would love to watch anime when free.
 - ⚡ Fun fact : I always find myself in the midst of a problem statement, in the end I solve it.
 
-<a href="https://git.io/streak-stats"><p align="center"><img src="https://streak-stats.demolab.com?user=Mikeyzgoat&theme=aura-dark&hide_border=true" alt="GitHub Streak" /></p></a> 
 
 #### Here are some of my works you can look into :
 - 🤖 [CineTrack](https://github.com/Mikeyzgoat/CineTrack) -> A Discord bot which helps you keep track of your movies.
