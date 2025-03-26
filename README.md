@@ -3,7 +3,7 @@ I am Aditya, here's everything about me
 - 🎓 graduated from RNSIT (batch 2020-2024) B.E in Computer Science and Engineering. 
 - 📔 I'm currently pursuing B.Sc (Hons.) Data Science and Artificial Intelligence at IIT Guwahati (batch 2023-2027)
 - 🔭 I’m currently exploring AI and various tools
-- 🌱 I’m currently learning Go, React.js, Node.js
+- 🌱 I’m currently learning novel ML approaches and Agentic AI
 - 💬 Ask me about : Python and emerging tech.
 - 📫 How to reach me: Github: [Mikeyzgoat](https://github.com/Mikeyzgoat) 
 - 😄 Pronouns: he/him
@@ -17,6 +17,5 @@ I am Aditya, here's everything about me
 - 📱 [Aristotle](https://github.com/Mikeyzgoat/ARISTOTLE) -> A phone gallery integration which uses AI models to perform Computer Vision and Generative AI tasks.
 
 ### Currently working on:
-- 💻 [GitRSS](https://github.com/Mikeyzgoat/GitRSS) -> Using discord.js and Node.js to notify users about changes (i.e commits,updates,deletions, archival, etc) of a github repository provided to the bot.
-
+- 💻 Agentic Reasearch Assistant - The Agentic Research Assistant is a CLI-based tool that searches, scrapes, and summarizes research papers from ArXiv and Google Scholar.
  > If anyone wishes to contribute, fork the repo and make PR's i ll be more than happy to work together. ♥️ happy learning!
