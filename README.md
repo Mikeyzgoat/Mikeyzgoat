@@ -16,6 +16,4 @@ I am Aditya, here's everything about me
 - 🗞️ [AimlabsGL](https://github.com/Mikeyzgoat/AimLabsGL) -> A FPS (First-Person Shooter) aim trainer designed to improve aim and reaction time of a player.
 - 📱 [Aristotle](https://github.com/Mikeyzgoat/ARISTOTLE) -> A phone gallery integration which uses AI models to perform Computer Vision and Generative AI tasks.
 
-### Currently working on:
-- 💻 Agentic Reasearch Assistant - The Agentic Research Assistant is a CLI-based tool that searches, scrapes, and summarizes research papers from ArXiv and Google Scholar.
  > If anyone wishes to contribute, fork the repo and make PR's i ll be more than happy to work together. ♥️ happy learning!
